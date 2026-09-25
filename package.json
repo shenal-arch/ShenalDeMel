@@ -3,6 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shenal-arch/ShenalDeMel.git"
+  },
+  "homepage": "https://github.com/shenal-arch/ShenalDeMel",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
     "build": "vite build",

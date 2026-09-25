@@ -152,7 +152,7 @@ export default function Layout() {
               <a href="#" className="text-zinc-400 hover:text-white transition-colors"><Linkedin size={20} /></a>
               <a href="#" className="text-zinc-400 hover:text-white transition-colors"><Dribbble size={20} /></a>
               <a href="#" className="text-zinc-400 hover:text-white transition-colors"><Instagram size={20} /></a>
-              <a href="#" className="text-zinc-400 hover:text-white transition-colors"><Github size={20} /></a>
+              <a href="https://github.com/shenal-arch/ShenalDeMel" target="_blank" rel="noopener noreferrer" aria-label="GitHub Repository" className="text-zinc-400 hover:text-white transition-colors"><Github size={20} /></a>
             </div>
           </div>
         </div>

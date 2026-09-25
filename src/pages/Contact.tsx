@@ -84,7 +84,7 @@ export default function Contact() {
                     <a href="#" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-zinc-400 hover:text-white hover:bg-white/10 transition-colors"><Linkedin size={18} /></a>
                     <a href="#" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-zinc-400 hover:text-white hover:bg-white/10 transition-colors"><Dribbble size={18} /></a>
                     <a href="#" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-zinc-400 hover:text-white hover:bg-white/10 transition-colors"><Instagram size={18} /></a>
-                    <a href="#" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-zinc-400 hover:text-white hover:bg-white/10 transition-colors"><Github size={18} /></a>
+                    <a href="https://github.com/shenal-arch/ShenalDeMel" target="_blank" rel="noopener noreferrer" aria-label="GitHub Repository" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-zinc-400 hover:text-white hover:bg-white/10 transition-colors"><Github size={18} /></a>
                   </div>
                 </div>
               </div>
