@@ -1,0 +1,6 @@
+{
+  "name": "Premium UI/UX Portfolio",
+  "description": "A dark, modern, premium portfolio website for a Senior UI/UX Designer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
